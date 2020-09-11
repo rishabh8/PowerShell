@@ -23,7 +23,7 @@
     <PackageReference Include="System.Management" Version="5.0.0-preview.3.20214.6" />
     <PackageReference Include="System.Runtime.CompilerServices.Unsafe" Version="5.0.0-preview.3.20214.6" />
     <PackageReference Include="System.Security.AccessControl" Version="5.0.0-preview.3.20214.6" />
-    <PackageReference Include="System.Security.Cryptography.Pkcs" Version="5.0.0-preview.3.20214.6" />
+    <PackageReference Include="System.Security.Cryptography.Pkcs" Version="5.0.0-rc.2.20461.4" />
     <PackageReference Include="System.Security.Permissions" Version="5.0.0-preview.3.20214.6" />
     <PackageReference Include="System.Text.Encoding.CodePages" Version="5.0.0-preview.3.20214.6" />
     <!-- the following package(s) are from the powershell org -->
